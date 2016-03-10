@@ -1,4 +1,4 @@
-# Flight
+# Airline-Reservation-System
 课程设计做一个飞机订票系统，c语言实现，功能如下：
 
 录入：
